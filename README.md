@@ -1,10 +1,8 @@
-Getting and Cleaning Data Project
-
-Heather Wade
+# Getting and Cleaning Data Project
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
-Overview
+## Overview
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera. This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. 
 
 The source data for this project can be found here.
@@ -13,7 +11,7 @@ Making Modifications to This Script
 
 Set the path of the working directory to reflect the location of the source files in your own directory.
 
-Project Summary
+## Project Summary
 
 The following is a summary description of the project instructions
 
@@ -25,8 +23,8 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Additional Information
+## Additional Information
 
-You can find additional information about the variables, data and transformations in the CodeBook.MD file.
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
-The output of the 5th step is called secTidySet.txt, and uploaded in the course project's form.
+You can find additional information about the variables, data and transformations in the `CodeBook.MD` file.
+`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+The output of the 5th step is called `secTidySet.txt`, and uploaded in the course project's form.
